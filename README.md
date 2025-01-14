@@ -2,7 +2,7 @@
 <h3 align="center">EU-Based Software Engineer</h3>
 
 <h3 align="center">
-  🔭 I’m currently working on <a href="https://shorturl.at/qvojR"> Programmatically Autochroming Photos </a> <br/>
+  🔭 I’m currently working on <a href="https://github.com/AndyDuLy/autochrome-monorepo"> Programmatically Autochroming Photos </a> <br/>
   🌱 I’m currently learning <span style="font-weight:bold"> Français, Image Processing & Manipulation </span> <br/>
   📄 Read about my experience <a href="https://drive.google.com/drive/folders/1apDueoMyihJ-xJa9baEI26n9imZ8QB8y?usp=sharing"> here </a> <br/>
 </h3>
